@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions for peace, propovnded by the Kings most Excellent Majestie to the High Court of Parliament together with His Majesties royall protestation, concerning the cleering of all doubts of His raising armes against the Parliament : also the Kings Majesties letter to the Lord Willoughby at Lincoln, concerning the militia and mustering of the trained bands of the country : likewise the Lord Willoughbies information concerning the said message to the House of Parliament : as also an order to send for the maior, for proclaiming the Kings proclamation : also the votes of both Houses of Parliament concerning the said message.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19179</idno><idno type="EEBO-CITATION">12655834</idno>
+  <idno type="VID">206369</idno>
+  <idno type="EEBO-PROQUEST">2248575588</idno>
+  
+            <idno type="STC">Wing C2723</idno>
+            <idno type="STC">ESTC R16841</idno>
+            <idno type="OCLC">12655834</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206369)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E152, no 1 or 1621:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions for peace, propovnded by the Kings most Excellent Majestie to the High Court of Parliament together with His Majesties royall protestation, concerning the cleering of all doubts of His raising armes against the Parliament : also the Kings Majesties letter to the Lord Willoughby at Lincoln, concerning the militia and mustering of the trained bands of the country : likewise the Lord Willoughbies information concerning the said message to the House of Parliament : as also an order to send for the maior, for proclaiming the Kings proclamation : also the votes of both Houses of Parliament concerning the said message.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Prined [sic] for William Arding,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>June 28, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item at reel position 1621:29 identified as Wing P3785 (number cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of originals in Thomason Collection, British Library and the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Willoughby of Parham, Francis Willoughby, --  Baron, 1613?-1666.</term>
+               <term type="corporate_name">England and Wales. --  Army.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206369:1"/>
+            <pb facs="tcp:206369:1"/>
+            <p>PROPOSITIONS FOR PEACE, PROPOVNDED By the Kings most Excellent MAJESTIE, to the High Court of <hi>Parliament.</hi>
+            </p>
+            <p>Together, With His Majesties Royall <hi>Protestation,</hi> concerning the cleering of all Doubts of His raising Armes against the <hi>Parliament.</hi>
+            </p>
+            <p>Also the Kings Majesties Letter to the Lord <hi>Willoughby</hi> at <hi>Lincoln,</hi> concerning the Militia, and Mustering of the Trained Bands of that County.</p>
+            <p>Likewise the Lord <hi>Willoughbies</hi> Informa<g ref="char:EOLhyphen"/>tion concerning the said Message to the House of PARLIAMENT.</p>
+            <p>As also an Order to send for the Maior, for proclaiming the Kings Proclaimation.</p>
+            <p>Also the Votes of both Houses of Parlia<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent, Concerning the said Message.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be Printed and published.</p>
+                        <closer>
+                           <signed>Hen. Elsing. Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>June</hi> 28. <hi>Printed for</hi> William Arding, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_propositions">
+            <pb facs="tcp:206369:2"/>
+            <p>HIs Majesty taking into his Royall Consideration, the great danger that Civill Discord, was graciously pleased to propound these severall matters to the High Court of <hi>Parliament,</hi> adding with<g ref="char:EOLhyphen"/>all His <hi>Protestation,</hi> that those things per<g ref="char:EOLhyphen"/>formed, He would be ready to concurre with them, in ought that should by them be thought necessary for him to grant.</p>
+            <list>
+               <item>1. That they would rest satisfied with the truth of his professions and intentions.</item>
+               <item>2. That they declare against all Tumults, and punish the Authors.</item>
+               <item>3. That they allow him his Prosperity in his Towns, or Arms and Goods.</item>
+               <item>4.That they recall those Declarations (particularly that of the 16 of May) and those in the Point of the Militia.</item>
+               <item>5. That they Decline the beginning of a war against him, under pretence of His ma<g ref="char:EOLhyphen"/>king one against them.</item>
+            </list>
+            <p>That then His Majesty never opposed the first part of the 13. <hi>Demand,</hi> so wee shall be ready to concur with them in the latter.</p>
+         </div>
+         <div type="summary_of_Parliamentary_proceedings">
+            <pb facs="tcp:206369:2"/>
+            <head>HIS MAIESTIES <hi>MESSAGE</hi>
+            </head>
+            <head type="sub">To the Lord Willoughby, to Lincoln, concer<g ref="char:EOLhyphen"/>ning the Militia.</head>
+            <p>THe House of <hi>Parliament</hi> out of their due consideration, and pro<g ref="char:EOLhyphen"/>sperity both of the King &amp; King<g ref="char:EOLhyphen"/>dome, did elect and choose the Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby,</hi> as a man fit and deserving to have the trust and charge of the <hi>Militia</hi> of <hi>Lincoln</hi> shire committed unto him, who according to the trust reposed in him, with his endeavour to give satisfaction for their good opinion of him; in that they thought him weary of so great a trust, with the consent of the House went down to <hi>Lincoln,</hi> and did undertake and put in Execution, what the House had Ordered.</p>
+            <pb facs="tcp:206369:3"/>
+            <p> My Lord <hi>Willoughby</hi> was not deterred from his trust by many Messages sent from his Majesty, neither by his Procla<g ref="char:EOLhyphen"/>mation lately published to this intent. That no Train-bands should be mustred or Trained without his spenall Order from his Majesty, although they had ex<g ref="char:EOLhyphen"/>presse Command from the House of <hi>Par<g ref="char:EOLhyphen"/>liament</hi> to that purpose.</p>
+            <p>Upon the 24. of <hi>June</hi> his Majesty un<g ref="char:EOLhyphen"/>derstanding the Lord <hi>Willoughby</hi> not<g ref="char:EOLhyphen"/>withstanding all his former prohibiti<g ref="char:EOLhyphen"/>ons, did contrary to his Will and Com<g ref="char:EOLhyphen"/>mand persist in his Mustering of the train Band of <hi>Lincoln</hi> shire, sent down a new Message unto him to the same ef<g ref="char:EOLhyphen"/>fect, commanding him to desist from the Mustring of the Train Bands, as hee would answer the contrary, when a fit occasion should serve at his uttermost perill.</p>
+            <p>And withall did signifie unto him, that the Lord Keeper had never Con<g ref="char:EOLhyphen"/>sented to the Ordinances, as he preten<g ref="char:EOLhyphen"/>ded in his Answer to his former Let<g ref="char:EOLhyphen"/>ters.</p>
+            <pb facs="tcp:206369:3"/>
+            <p> My Lord <hi>Willoughby</hi> having received this Letter, and in it the Message, thought it fit to addresse himselfe unto that po<g ref="char:EOLhyphen"/>wer, who had enabled him, and without all question hee believed would encou<g ref="char:EOLhyphen"/>rage and defend his service.</p>
+            <p>Whereupon hee sent Letters to the House, enforming them, that notwith<g ref="char:EOLhyphen"/>standing the King had again prohibited him from going on with mustring the Train band.</p>
+            <p>Yet he did not desist, but did execute the Charge and Trust committed to them by him.</p>
+            <p>Enforming them also, that there was a Captain came from His Majesty from <hi>Yorke,</hi> who by false suppositions and al<g ref="char:EOLhyphen"/>luding promises to the utmost of his power, did strive and endeavour to a<g ref="char:EOLhyphen"/>liene the hearts and fidelity of that County, from their reposed trust in the House of Parliament, and further told that Country, That he wondred that the Lord <hi>Willoughby</hi> had so blinded their Eyes, that they could not see their owne
+<pb facs="tcp:206369:4"/>benefit, and withall did assure them that the King himselfe would shortly come to <hi>Lincoln,</hi> and muster up the Trayned Bands.</p>
+            <p>The House having received these Let<g ref="char:EOLhyphen"/>ters from the Lord <hi>Willoughby,</hi> fell the same day into a Conference, being moved with the Necessity of these Times, and the weight of the businesse.</p>
+            <p>And so upon consideration of the said Letters, the Lords Ordered, <hi>That certaine Votes agreed upon in the Lords House, Con<g ref="char:EOLhyphen"/>cerning the Militia, at which the Lord Kee<g ref="char:EOLhyphen"/>per was present, and gave his Vote for them, should be forthwith put in Print, and publi<g ref="char:EOLhyphen"/>shed throughout the Kingdome.</hi>
+            </p>
+            <p>Also, at the same time Information was made, <hi>That the Lord Keeper in the House of Peers, named his Deputy Lieute<g ref="char:EOLhyphen"/>nants for every County, and sent them downe to the House of Commons for their Appro<g ref="char:EOLhyphen"/>bation, And also agreed to the severall forms of the Deputations for the Militia.</hi>
+            </p>
+            <pb facs="tcp:206369:4"/>
+            <p> These Distractions and Differences God of his mercy, and when it shall seeme most convenient to his Divine Providence amend, That the King and His Subjects being united in a most se<g ref="char:EOLhyphen"/>parable Union, this Land may enjoy a continuall peace, the Gospell flourish to the Glory of Almighty God, and the Comfort of this Nation, his Majesty may enjoy a prosperous and a peaceable reign, His Subjects flourish in peace of Con<g ref="char:EOLhyphen"/>science, and peace of Estate; So shall this whole Land be everlastingly happy, unto which O God say, <hi>Amen.</hi>
+            </p>
+            <list>
+               <item>I. <hi>The violent and frequent Breaches of the Priviledges of Parliament, the often attempt against the State, and <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>bitious Designs, to frustrate the Power and Proceedings of Par<g ref="char:EOLhyphen"/>liament.</hi>
+               </item>
+               <item>II. <hi>The want of <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Reformation of Church-Government and Liturgie now used, the want of a Preaching Ministry, and competent main<g ref="char:EOLhyphen"/>tenance for them in many parts of this King<g ref="char:EOLhyphen"/>dome.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:206369:5"/>
+            <p> Both Houses of Parliament hath took into their se<g ref="char:EOLhyphen"/>rious consideration the Occasion and Reason why the Members of the said Houses should absent themselves upon their summoning in, Wherupon they hath drawn up a Charge against them, and are resolv'd that they shall pay 100. l. a man, and to be examined by the Com<g ref="char:EOLhyphen"/>mittee before the next sitting.</p>
+            <closer/>
+            <postscript>
+               <p>Ordered by the Lords and Commons in Parliament, that this be printed and publi<g ref="char:EOLhyphen"/>shed.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>John Brown Cler Parl.</item>
+                        <item>Hen. Elsing Cler. Parl. D. Com.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+            <pb facs="tcp:206369:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
